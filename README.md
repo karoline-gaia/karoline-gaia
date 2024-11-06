@@ -9,7 +9,7 @@
 
 ### Tecnologias
 <p align="left">
-  🦄 Linguagens: **GO, Laravel, Typescript.**
+  🦄 Linguagens: **
 </p><br>
 
 <p>
