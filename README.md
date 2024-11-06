@@ -9,7 +9,7 @@
 
 ### Tecnologias
 <p align="left">
-  🦄 Linguagens: **
+  🦄 Linguagens: 
 </p><br>
 
 <p>
