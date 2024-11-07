@@ -8,9 +8,6 @@
 
 
 ### Tecnologias
-<p align="left">
-  🦄 Linguagens: 
-</p><br>
 
 <p>
     <a href="#" title="Postgres">
