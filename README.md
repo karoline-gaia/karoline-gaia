@@ -38,7 +38,7 @@ Projetos em destaque: [CAU/BR](https://caubr.gov.br/>)
 </p><br>
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=karoline-gaia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![karoline](https://github-readme-stats.vercel.app/api/top-langs/?username=karoline-gaia&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
