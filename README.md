@@ -26,7 +26,7 @@
 
 ### Experiência de trabalho
 <p>
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.squadra.com.br/img/squadra-logo.svg"/>](https://www.squadra.com.br/)
 
