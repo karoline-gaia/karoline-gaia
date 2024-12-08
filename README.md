@@ -1,7 +1,7 @@
 ## Sobre mim
 
 <p align="left"> 
-  Sou a Karoline Gaia Alexandre, desenvolvedora Fullstack atualmente, estou iniciando uma pós-graduação em <strong> GO </strong> para aprofundar meus conhecimentos na linguagem.<br>
+  Sou a Karoline Gaia Alexandre, desenvolvedora Fullstack atualmente, estou iniciando uma pós-graduação em <strong> GO </strong> para aprofundar meus conhecimentos na linguagem. Sou acadêmica de engenharia de software.<br>
   Atuo na SQUADRA Digital como desenvolvedora Fullstack.
 </p><br>
 <p><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"></p><br>
