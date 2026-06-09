@@ -34,6 +34,8 @@ Abaixo você encontrará minha experiência de trabalho mais recente:
 [**Squadra**](https://www.squadra.com.br/) • Full-time \
 Linguagens & Tecnologias: `Laravel`, `Angular`, `Azure`, `Gitlab`, `Jira`\
 Projetos em destaque: [CAU/BR](https://caubr.gov.br/>)
+[MRV&CO](https://www.mrv.com.br//>)
+
 
 </p><br>
 
